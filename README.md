@@ -35,7 +35,7 @@
 </h1>
   <button>
     <a href="https://atthmew.github.io/omnifood/" target="_blank" > 
-      <img alt="Project Top Language" src="https://img.shields.io/badge/Omnifood-white?style=for-the-badge&label=View Here&labelColor=black"/>
+      <img alt="Project Top Language" src="https://img.shields.io/badge/Omnifood-white?style=for-the-badge&label=ViewDemo&labelColor=black"/>
     </a>
   </button>
 </p>
